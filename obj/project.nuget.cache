@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7YbJ/4hggKSJtsr6AZZb0cal8TFktrEvKFoeIW8TudAd50tYfJf5xb5zrtJoHPTuaHJUV8X4ksGuWea1DRmOsw==",
+  "dgSpecHash": "cFnSebXmIzhGHaKWfITsBUPtv5qfv3mfXhy8h47HrGQvYNhykVQRswGtIz64y8XuigyNdiIlt7wzFXzBqR+lrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alyma\\Desktop\\csharp-basics\\csharp-basics.csproj",
+  "projectFilePath": "C:\\Users\\alyma\\Desktop\\csharp-basics\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

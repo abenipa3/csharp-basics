@@ -1,0 +1,5 @@
+C:\Users\alyma\Desktop\csharp-basics\obj\Debug\net7.0\csharp-basics.csproj.AssemblyReference.cache
+C:\Users\alyma\Desktop\csharp-basics\obj\Debug\net7.0\csharp-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyma\Desktop\csharp-basics\obj\Debug\net7.0\csharp-basics.AssemblyInfoInputs.cache
+C:\Users\alyma\Desktop\csharp-basics\obj\Debug\net7.0\csharp-basics.AssemblyInfo.cs
+C:\Users\alyma\Desktop\csharp-basics\obj\Debug\net7.0\csharp-basics.csproj.CoreCompileInputs.cache

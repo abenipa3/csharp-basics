@@ -23,3 +23,8 @@ Link to Tutorial: https://dotnet.microsoft.com/en-us/learn/csharp
 - [ ] Work with the double type
 - [ ] Work with decimal types
 - [ ] Complete challenge
+
+### How to Run
+```
+dotnet run
+```

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alyma\\Desktop\\csharp-basics\\csharp-basics.csproj",
-      "projectName": "csharp-basics",
-      "projectPath": "C:\\Users\\alyma\\Desktop\\csharp-basics\\csharp-basics.csproj",
+      "projectUniqueName": "C:\\Users\\alyma\\Desktop\\csharp-basics\\HelloWorld.csproj",
+      "projectName": "HelloWorld",
+      "projectPath": "C:\\Users\\alyma\\Desktop\\csharp-basics\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\alyma\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alyma\\Desktop\\csharp-basics\\obj\\",
       "projectStyle": "PackageReference",
